@@ -45,7 +45,7 @@
 
 ##### Результат:
 
-```lisp
+```
 A
 ```
 
@@ -60,7 +60,7 @@ A
 
 ##### Результат:
 
-```lisp
+```
 (1 (1 2) NIL B)
 ```
 
@@ -75,7 +75,7 @@ A
 
 ##### Результат:
 
-```lisp
+```
 (1 2)
 ```
 
@@ -90,7 +90,7 @@ A
 
 ##### Результат:
 
-```lisp
+```
 B
 ```
 
@@ -111,7 +111,7 @@ B
 
 ##### Результат:
 
-```lisp
+```
 Is first el atom: T
 Is second el atom: T
 Is third el atom: NIL
@@ -133,7 +133,7 @@ Is fourth el list: T
 
 ##### Результат:
 
-```lisp
+```
 Second el is number: T
 Fifth el equalp to 'b: T
 ```
@@ -150,14 +150,14 @@ Fifth el equalp to 'b: T
 
 ##### Результат:
 
-```lisp
+```
 Combined list: (A 1 (1 2) NIL B 1 2)
 ```
 
 ## Варіант 3
 
 <p align="center">
-<img src="lab-1-variant3.png">
+<img src="lab-1-variant.png">
 </p>
 
 ```lisp
@@ -169,6 +169,6 @@ Combined list: (A 1 (1 2) NIL B 1 2)
 
 ##### Результат:
 
-```lisp
+```
 (1 A (B) (3 C B))
 ```
